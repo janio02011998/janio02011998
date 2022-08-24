@@ -1,7 +1,7 @@
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Hi, i'm Jânio. Sou <strong>FullStack Developer Middle-Level</strong>.
+  🌎 Hi, I'm <strong>FullStack Developer Middle-Level</strong>.
 </p>
 
 <p align="left">
