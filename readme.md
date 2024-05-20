@@ -1,23 +1,48 @@
-<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<h2> I'm Jânio Júnior, but can you call me of JJ</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="https://www.imagemaker.com/?lang=en">ImageMaker
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<p align="left"> 
-  🌎 Hi, I'm <strong>FullStack Developer Middle-Level</strong>.
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=jjcarvalhojr)
+[![Linkedin: Janio](https://img.shields.io/badge/-janio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/janio-j%C3%BAnior-95966016b/)
+![GitHub followers](https://img.shields.io/github/followers/janio02011998?label=Follow&style=social)
 
-<p align="left">
-  🦄 Skills: <strong>Typescript, ReactJS, React-Native, Next.js, Vue, Styled Components, Sass, TailwindCSS, Firebase, Mongodb, SQLite and Neo4j.</strong>
-</p>
+<!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098) -->
 
-<p align="left">
-  💼 Tools: <strong>VSCode, Figma, Trello, Vercel, AWS, Slack, Jira, Bitbucket and GitHub.</strong>
-</p>
+### 📫 Like to meet me?
 
-<p align="left">
-  💌 Send me a message.
-</p>
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/janio-carvalho-95966016b/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
-  </a>
-</p>  
+<a href="https://calendly.com/janiocarvalhojr/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const janio = {
+  pronouns: "He" | "Him",
+  code: ["Typescript", "Javascript", "C#", "Java"],
+  askMeAbout: ["web dev", "tech", "app dev", "games"],
+  technologies: {
+    backEnd: {
+      js: ["Node", "Express", ".Net"],
+    },
+    mobileApp: {
+      native: ["React Native"],
+    },
+    devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+    databases: ["MongoDB", "Sqlite", "PostgreSQL", "Firebase"],
+  },
+  architecture: [
+    "Serverless Architecture",
+    "Progressive web applications",
+    "Single page applications",
+  ],
+  currentFocus: "No Focus point at this time",
+  funFact:
+    "There are two ways to write error-free programs; only the third one works",
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
