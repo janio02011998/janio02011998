@@ -22,11 +22,13 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const janio = {
   pronouns: "He" | "Him",
-  code: ["Typescript", "Javascript", "C#", "Java"],
+  code: ["Typescript", "Javascript", "C#"],
   askMeAbout: ["web dev", "tech", "app dev", "games"],
   technologies: {
-    backEnd: {
-      js: ["Node", "Express", ".Net"],
+    frontend: ["react", "next", "vue"],
+    backend: {
+      js: ["Node", "Express"],
+      c#: [".NET"]
     },
     mobileApp: {
       native: ["React Native"],
